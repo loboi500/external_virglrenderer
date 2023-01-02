@@ -1,4 +1,3 @@
-#!/bin/sh
-PYTHONDONTWRITEBYTECODE=1 src/gallium/auxiliary/util/u_format_table.py \
-  src/gallium/auxiliary/util/u_format.csv \
-  >$PWD/prebuilt-intermediates/src/u_format_table.c
+version https://git-lfs.github.com/spec/v1
+oid sha256:7758782702f57873bb529ee49441afaf1025f5273247ca66be896cead8130d70
+size 179

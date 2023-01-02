@@ -1,4 +1,3 @@
-URL: https://cgit.freedesktop.org/virglrenderer
-Version: 0.6.0
-BugComponent: 405564
-Owners: lepton
+version https://git-lfs.github.com/spec/v1
+oid sha256:9077e17a20823a8bac18a49f6777b07fb5be98464d713bcdfd7a81c3883fb689
+size 99
